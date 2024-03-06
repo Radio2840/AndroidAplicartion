@@ -1,0 +1,2 @@
+Środowisko: Android Studio
+API 27 ("Oreo"); Android 8.1
